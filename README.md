@@ -1,5 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&width=100%&section=header&text=Go%20EunChan&fontSize=90)
-<div align="center"> 🎈Email🎈 </div>
+
+<center> 🎈Email🎈 </center>
+<center> goyouchan@naver.com </center>
+
+<center> 안녕하세요</center>
+<center> 저는 고은찬이고 현재 프론트엔드를 공부하고 있습니다.</center>
+
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+
+
 
 
 
