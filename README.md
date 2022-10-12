@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Go%20EunChan&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&width=100%&section=header&text=Go%20EunChan&fontSize=90)
 <div align="center"> 🎈Email🎈 </div>
 
 
