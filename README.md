@@ -1,4 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Go%20EunChan&fontSize=90)
+
+<center> 🎈Email🎈 </center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **goyou123/goyou123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
