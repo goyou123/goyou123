@@ -4,10 +4,10 @@
 <center> goyouchan@naver.com </center>
 
 <center> 안녕하세요</center>
-<center> 저는 고은찬이고 현재 프론트엔드를 공부하고 있습니다.</center>
+<center> 현재 프론트엔드를 깊게 공부하고 있는 고은찬입니다.</center>
 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<!--<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp -->
 
 
 
