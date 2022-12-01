@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&width=100%&section=header&text=Go%20EunChan&fontSize=90)
 
-<center> 🎈Email🎈 </center>
-<center> goyouchan@naver.com </center>
+<!--<center> 🎈Email🎈 </center>
+<center> goyouchan@naver.com </center>-->
 
 <center> 안녕하세요</center>
 <center> 현재 프론트엔드를 깊게 공부하고 있는 고은찬입니다.</center>
